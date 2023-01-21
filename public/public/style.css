@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-color{
+    background-color: black;
+    
+}
+
+#ac,.tagline,.chocolate,h5,h1{
+    color: chocolate !important;
+}
+#ac:hover{
+    color: aliceblue !important;
+    border: 1px solid !important;
+}
+#ac1{
+    color: aliceblue !important;
+}
+#ac1:hover{
+    border: 1px solid aliceblue !important;
+}
+.borderRight{
+    border-right: 5px solid chocolate;
+}
+span{
+    color: aliceblue;
+}
+span:hover{
+    color: rgb(9, 99, 178) !important;
+    text-decoration: none !important;
+  
+}
+a:hover{
+    color: aliceblue !important ;
+}
